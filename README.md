@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 A passionate Fullstack developer from India
 -------------------------------------------
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephin-t&label=Profile%20views&color=0e75b6&style=flat" alt="stephin-t" /> </p>
