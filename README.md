@@ -15,7 +15,7 @@ A passionate Fullstack developer from India
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://stephin-t-portfolio-stephin-t.vercel.app/](https://stephin-t-portfolio-stephin-t.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/Stephin-T?tab=repositories/](https://github.com/Stephin-T?tab=repositories/)
 
 - 💬 Ask me about **MERN Stack, Next.js**
 
