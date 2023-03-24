@@ -2,8 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Stephin Thathyuse
 ========================================================================================================================================
 
-A passionate Fullstack developer from India
--------------------------------------------
+<img src="https://readme-typing-svg.demolab.com/?lines=A%20passionate%20Full-stack%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 
