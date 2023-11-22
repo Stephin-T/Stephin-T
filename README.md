@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Stephin Thathyuse! 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-<img align="right" alt="Coding" width="160" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="80" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <img src="https://readme-typing-svg.demolab.com/?lines=A%20passionate%20Full-stack%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=340&height=45&color=149414&vCenter=true&pause=1000&size=16" />
 
 
@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🔭 Currently working in **Cognizant Technology Solutions**
 - 🖥️ Tech stack : React.js | Spring Boot | Microservices | Java | Typescript | Javascript | Next.js | MySql |
 - 👯 I’m looking to collaborate on **Java Full Stack Projects**
-- 👨‍💻 Checkout my portfolio [View my portfolio🌐](https://stephin-thathyuse.vercel.app/)
+- 👨‍💻 Checkout my portfolio [Click here 🚀](https://stephin-thathyuse.vercel.app/)
 
 - 💬 Ask me about **Java full stack development, React.js**
 
