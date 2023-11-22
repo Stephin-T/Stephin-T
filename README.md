@@ -20,7 +20,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 📫 How to reach me **stephint07@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/r/_GTcMwsv](https://rxresu.me/r/_GTcMwsv)
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
