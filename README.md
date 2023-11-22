@@ -35,13 +35,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Stephin-T&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Stephin-T&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephin-T&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Stephin-T&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
 
 ---
