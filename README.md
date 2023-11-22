@@ -3,10 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 -----------------------------------------------------------------------------------------------------------------------------------
 
 <img src="https://readme-typing-svg.demolab.com/?lines=A%20passionate%20Full-stack%20developer;Always%20learning%20new%20things%20😊&font=Fira%20Code&center=true&width=440&height=45&color=149414&vCenter=true&pause=1000&size=22" />
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="100" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stephin-t&label=Profile%20views&color=0e75b6&style=flat" alt="stephin-t" /> </p>
  Passionate about creating web applications that prioritize a smooth user experience, I excel in the dynamic realm of full stack development. Possessing a strong grasp of both front-end and back-end technologies, I take pleasure in constructing resilient, scalable, and sophisticated solutions that redefine the limits of what can be achieved.
 
 
