@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🔭 Currently working in **Cognizant Technology Solutions**
 - 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on **Java Full Stack Projects**
-- 👨‍💻 Checkout my portfolio [Click here](https://stephin-thathyuse.vercel.app/)
+- 👨‍💻 Checkout my portfolio [View my portfolio🌐](https://stephin-thathyuse.vercel.app/)
 
 - 💬 Ask me about **Java full stack development, React.js**
 
