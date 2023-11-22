@@ -8,18 +8,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
- ❤️‍🔥Passionate about creating web applications that prioritize a smooth user experience, I excel in the dynamic realm of full stack
- development. Possessing a strong grasp of both front-end and back-end technologies, I take pleasure in constructing resilient, scalable,
- and sophisticated solutions that redefine the limits of what can be achieved.
-
-
+ ❤️‍🔥Passionate about creating web applications that prioritize a smooth user experience, I excel in the dynamic realm of full stack development. Possessing a strong grasp of both front-end and back-end technologies, I take pleasure in constructing resilient, scalable, and sophisticated solutions that redefine the limits of what can be achieved.
 
 
 
 - 🔭 Currently working in **Cognizant Technology Solutions**
 - 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on **Java Full Stack Projects**
-- 👨‍💻 Checkout my portfolio [https://stephin-t-portfolio-stephin-t.vercel.app/](https://stephin-t-portfolio-stephin-t.vercel.app/)
+- 👨‍💻 Checkout my portfolio [Click here](https://stephin-thathyuse.vercel.app/)
 
 - 💬 Ask me about **Java full stack development, React.js**
 
